@@ -3,7 +3,7 @@ Notes / Tests / etc. for ML specialisation by Andrew Ng
 
 Week 1:
 ## Supervised Learning
-  # Regression
+  ### Regression
   -  Linear Regression
       - Concepts  
       - Cost function (Sq. error)
