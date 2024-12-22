@@ -6,5 +6,5 @@ Week 1:
   # Regression
   -  Linear Regression
     - Concepts  
-    - Cos(x) function  
+    - Cost function  
   -  Logistic Regression
