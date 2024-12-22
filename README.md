@@ -5,7 +5,7 @@ Week 1:
 ## Supervised Learning
   # Regression
   -  Linear Regression
-    - Concepts  
-    - Cost function (Sq. error)
-    - Gradient Descent
+      - Concepts  
+      - Cost function (Sq. error)
+      - Gradient Descent
   -  Logistic Regression
