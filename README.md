@@ -6,5 +6,6 @@ Week 1:
   # Regression
   -  Linear Regression
     - Concepts  
-    - Cost function  
+    - Cost function (Sq. error)
+    - Gradient Descent
   -  Logistic Regression
