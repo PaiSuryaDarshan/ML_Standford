@@ -5,7 +5,10 @@ Week 1:
 ## Supervised Learning
   ### Regression
   -  Linear Regression
-      - Concepts  
+      - Concepts (univariate)
       - Cost function (Sq. error)
       - Gradient Descent
+  -  Advanced Algorithms
+      - Multiple linear regression
+      - 
   -  Logistic Regression
