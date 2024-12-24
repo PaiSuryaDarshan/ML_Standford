@@ -1,4 +1,4 @@
-# ML_Standford
+# ML_Stanford
 Notes / Tests / etc. for ML specialisation by Andrew Ng
 
 Week 1:
