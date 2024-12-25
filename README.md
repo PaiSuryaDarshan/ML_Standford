@@ -1,5 +1,5 @@
 # ML_Stanford
-Notes / Tests / etc. for ML specialisation by Andrew Ng
+Notes / Tests / etc. for ML specialisation by Andrew Ng [Fix speeling of Repo]
 
 Week 1:
 ## Supervised Learning
