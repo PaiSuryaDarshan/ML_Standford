@@ -11,4 +11,6 @@ Week 1:
   -  Advanced Algorithms
       - Multiple linear regression
       - Multiple Feature Gradient Descent
+      - Feature Scaling
+      - Feature Engineering
   -  Logistic Regression
