@@ -15,4 +15,6 @@ Week 1:
       - Feature Engineering
       - Testing for Cost func
       - Choosing the right Learning rate
+      - Polynomial Regression
+      - Choosing the right polynomial expression 
   -  Logistic Regression
