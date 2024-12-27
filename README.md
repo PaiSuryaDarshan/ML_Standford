@@ -10,5 +10,5 @@ Week 1:
       - Gradient Descent
   -  Advanced Algorithms
       - Multiple linear regression
-      - 
+      - Multiple Feature Gradient Descent
   -  Logistic Regression
