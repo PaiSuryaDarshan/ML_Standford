@@ -13,8 +13,5 @@ Week 1:
       - Multiple Feature Gradient Descent
       - Feature Scaling
       - Feature Engineering
-      - Testing for Cost func
-      - Choosing the right Learning rate
-      - Polynomial Regression
-      - Choosing the right polynomial expression 
+
   -  Logistic Regression
