@@ -16,5 +16,6 @@ Week 1:
       - Testing for Cost func
       - Choosing the right Learning rate
       - Polynomial Regression
-      - Choosing the right polynomial expression 
+      - Choosing the right polynomial expression
+  - Building a Linear Regression prediction model
   -  Logistic Regression
