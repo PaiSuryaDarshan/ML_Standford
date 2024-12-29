@@ -17,5 +17,5 @@ Week 1:
       - Choosing the right Learning rate
       - Polynomial Regression
       - Choosing the right polynomial expression
-  - Building a Linear Regression prediction model
+      - Building a Linear Regression prediction model (FROM SCRATCH)
   -  Logistic Regression
