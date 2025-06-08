@@ -19,3 +19,5 @@ Week 1:
       - Choosing the right polynomial expression
       - Building a Linear Regression prediction model (FROM SCRATCH)
   -  Logistic Regression
+
+resumed on 7th June
