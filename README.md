@@ -20,4 +20,4 @@ Week 1:
       - Building a Linear Regression prediction model (FROM SCRATCH)
   -  Logistic Regression
 
-resumed on 10th June
+resumed on 12th June
